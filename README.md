@@ -1,0 +1,2 @@
+# Seti
+Ejercicio tecnico Seti
